@@ -14,7 +14,7 @@ I am a Linux Systems Engineer / DevOps Engineer currently working for a major ba
 - Currently working/training with goal of moving itno full development roles
 - Bonus: 
   - I once auditioned for the tv show **Survivor**
-  - I once managed to hit myself in the back of the head with a bat during softball game
+  - I once managed to hit myself in the back of the head, with a bat, during softball game
 
 ---
 
