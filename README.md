@@ -11,7 +11,7 @@ I am a Linux Systems Engineer / DevOps Engineer currently working for a major ba
 - I have been in the IT field for more than 20 years
 - College major was software engineering
 - Self taught in Linux, started Linux/Unix administration roles in ~2002
-- Currently working/training with goal of moving itno full development roles
+- Currently working/training with goal of moving into full development roles
 - Bonus: 
   - I once auditioned for the tv show **Survivor**
   - I once managed to hit myself in the back of the head, with a bat, during softball game
