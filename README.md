@@ -15,7 +15,7 @@ I am a Linux Systems Engineer / DevOps Engineer currently working for a major ba
 - Hobbies: archery, fishing, hiking, hunting
 - Bonus: 
   - I once auditioned for the tv show **Survivor**
-  - I once managed to hit myself in the back of the head, with a bat, during a softball game
+  - I once managed to hit myself in the back of the head, with a bat, while playing baseball
 
 ---
 
