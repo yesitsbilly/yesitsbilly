@@ -41,7 +41,7 @@ I am a Linux Systems Engineer / DevOps Engineer currently working for a major ba
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-<h2 style="text-align: center;">(https://yesmynameisbilly.github.io/)</h2>
+<h2 style="text-align: center;">https://yesmynameisbilly.github.io/</h2>
 
 ---
 
