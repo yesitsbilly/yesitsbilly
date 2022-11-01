@@ -60,4 +60,5 @@ I am a Linux Systems Engineer / DevOps Engineer currently working for a major ba
 <a href="https://www.linkedin.com/in/billymcchristian"><img src="https://img.shields.io/badge/-billymcchristian-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=yesmynameisbilly&style=flat-square&color=blue" alt="">
+<br>
 <a href="https://yesmynameisbilly.github.io">yesmynameisbilly.github.io</a></p>
