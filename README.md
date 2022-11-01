@@ -41,8 +41,6 @@ I am a Linux Systems Engineer / DevOps Engineer currently working for a major ba
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-[yesmynameisbilly.github.io](https://yesmynameisbilly.github.io/)
-
 ---
 
 ### My Stats :
@@ -61,4 +59,5 @@ I am a Linux Systems Engineer / DevOps Engineer currently working for a major ba
 <p align="center">
 <a href="https://www.linkedin.com/in/billymcchristian"><img src="https://img.shields.io/badge/-billymcchristian-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <br>
-<img src="https://komarev.com/ghpvc/?username=yesmynameisbilly&style=flat-square&color=blue" alt=""></p>
+<img src="https://komarev.com/ghpvc/?username=yesmynameisbilly&style=flat-square&color=blue" alt="">
+<a href="https://yesmynameisbilly.github.io">yesmynameisbilly.github.io</a></p>
