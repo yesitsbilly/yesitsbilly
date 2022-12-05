@@ -44,10 +44,10 @@ I am a Linux Systems Engineer / DevOps Engineer currently working for a major ba
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yesmynameisbilly&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yesitsbilly&theme=dark)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesmynameisbilly&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesitsbilly&show_icons=true&theme=dark)
 
 ---
 
@@ -61,4 +61,4 @@ I am a Linux Systems Engineer / DevOps Engineer currently working for a major ba
 <br>
 <img src="https://komarev.com/ghpvc/?username=yesmynameisbilly&style=flat-square&color=blue" alt="">
 <br>
-<a href="https://yesmynameisbilly.github.io">yesmynameisbilly.github.io</a></p>
+<a href="https://yesitsbilly.github.io">yesitsbilly.github.io</a></p>
