@@ -6,7 +6,7 @@
 
 ### About Me :
 
-I am a Linux Systems Engineer / DevOps Engineer currently working for a major bank in the US 
+I am a Linux Systems Engineer / DevOps Engineer / Cloud Engineer currently working for a major restaurant chain in the US
 
 - I have been in the IT field for more than 20 years
 - College major was software engineering
