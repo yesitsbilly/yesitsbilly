@@ -22,7 +22,7 @@ I am a Linux Systems Engineer / DevOps Engineer currently working for a major ba
 ### Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain-wordmark.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
