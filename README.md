@@ -8,7 +8,7 @@
 
 I am a Linux Systems Engineer / DevOps Engineer / Cloud Engineer currently working for a major restaurant chain in the US
 
-- I have been in the IT field for more than 20 years
+- I have been in the IT field for more than 23 years
 - College major was software engineering
 - Self taught in Linux, started Linux/Unix administration roles in ~2002
 - Currently working/training with goal of moving into full development roles
@@ -46,8 +46,6 @@ I am a Linux Systems Engineer / DevOps Engineer / Cloud Engineer currently worki
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yesitsbilly&theme=dark)](https://git.io/streak-stats)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesitsbilly&show_icons=true&theme=dark)
 
 ---
 
