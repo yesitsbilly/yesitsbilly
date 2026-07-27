@@ -6,12 +6,12 @@
 
 ### About Me :
 
-I am a Linux Systems Engineer / DevOps Engineer / Cloud Engineer currently working for a major restaurant chain in the US
+I am a Linux Systems Engineer / DevOps Engineer / Cloud Engineer currently working for a major Bank in the US
 
-- I have been in the IT field for more than 23 years
+- I have been in the IT field for more than 24 years
 - College major was software engineering
 - Self taught in Linux, started Linux/Unix administration roles in ~2002
-- Currently working/training with goal of moving into full development roles
+- Currently working with county Search and Rescue team where I live in the Ozarks. 
 - Hobbies: archery, fishing, hiking, hunting
 - Bonus: 
   - I once auditioned for the tv show **Survivor**
